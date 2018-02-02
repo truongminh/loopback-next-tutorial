@@ -11,21 +11,15 @@ Before we can begin, you will need:
 ```
 git clone git@github.com:truongminh/loopback-next-tutorial.git
 ```
-2. Switch to the repository and install the dependencies:
-```
-cd loopback-next-tutorial
-npm install
-```
-3. Run it
-```
-npm start
-```
 
 ### Tutorial
 The tutorial is divided into packages:
-- `hello`: basic setup 
+- `hello`: basic setup for a basic rest application 
 - `todo`: a sample todo application
 - `mytodo`: a full todo application with persitence storage and authentication
 
 ### Need help or give feedback
-Open issues on this repository or email me at `nguyentruongminh7@gmail.com`
+
+This tutorial is aimed to bootstrap the new comers who needs to quickly get familiar with the core concepts of [`loopback-next`](http://github.com/strongloop/loopback-next).
+
+If you need help or want to give feedbacks, please open issues on this repository or email me at `nguyentruongminh7@gmail.com`.
